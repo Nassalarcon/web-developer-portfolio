@@ -1,1 +1,39 @@
-index.css
+
+
+
+body {
+  background-image: url("./images/wood.jpg");
+  background-size: cover;
+
+}
+
+.container {
+	overflow-y: hidden;
+	font-weight: 400;
+}
+
+.transparent-bg {
+    background-color: rgba(0, 0, 0, 0.3); 
+  }
+#pills-home-tab {
+  text-size-adjust: 90;
+}
+
+.profile-margin {
+  margin-top: 75px;
+}
+
+.tools {
+
+}
+
+.Accomplishments {
+  margin-top: 75px;
+
+}
+.navbar {
+  font-size: 20px;
+  margin
+}
+
+
